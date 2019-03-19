@@ -1,0 +1,7 @@
+{
+  "name": "doctor",
+  "short_name": "doc",
+  "lang": "en-GB",
+  "start_url": "/",
+  "display": "standalone"
+}
